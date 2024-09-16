@@ -1,3 +1,7 @@
+![Kotlin](https://img.shields.io/badge/Kotlin-9A00F5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+# func_Ex1
+
 Камень-Ножницы-Бумага (три события)
 Создать консольную игру "Камень-Ножницы-Бумага" (три события). 
 
